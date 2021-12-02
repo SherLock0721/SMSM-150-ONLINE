@@ -7,11 +7,27 @@
     "start": "node smsm.js"
   },
   "dependencies": {
-    "discord.js": "11.4.2",
+    "discord.js": "^12.5.3",
+    "express": "{
+  "name": "smsm",
+  "version": "2.1.0",
+  "description": "smsm",
+  "main": "smsm.js",
+  "scripts": {
+    "start": "node smsm.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
     "express": "^4.17.1",
-    "ytdl-core": "^0.29.0"
+    "ytdl-core": "^4.9.1"
   },
   "engines": {
-    "node": "8.x"
+    "node": "12.x"
+  }
+}^4.17.1",
+    "ytdl-core": "^4.9.1"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
