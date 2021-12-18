@@ -121,7 +121,20 @@ const smsm119 = new Discord.Client();
 const smsm120 = new Discord.Client();
 
 ////////////////////////////////////////////// bas id voice dane
-
+smsm.on("ready", () => {
+  const channel = smsm.channels.get("877990365993525277");
+  if (!channel) return console.error("The channel does not exist!");
+  channel
+    .join()
+    .then(connection => {
+      // Yay, it worked!
+      console.log("Voice 1 connected.");
+    })
+    .catch(e => {
+      // Oh no, it errored! Let's log it to console :)
+      console.error(e);
+    });
+});
 /////////////////////
 ////////Ba heach shewayak daskary xware maka////////
 
