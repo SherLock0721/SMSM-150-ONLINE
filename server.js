@@ -334,7 +334,7 @@ smsm16.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm17.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 15`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
