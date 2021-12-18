@@ -121,7 +121,17 @@ const smsm119 = new Discord.Client();
 const smsm120 = new Discord.Client();
 
 ////////////////////////////////////////////// bas id voice dane
-
+smsm.on('ready', async() => {
+    console.log('online')
+    smsm.channels.cache.get('ايدي الروم').join()
+});
+smsm.on("voiceStateUpdate", async (oldState,newState) => {
+  if(newState.id === smsm.user.id ) {
+    if(!newState.voiceChannel) {
+      smsm.channels.cache.get('ايدي الروم').join()
+    }
+  }
+})
 /////////////////////
 ////////Ba heach shewayak daskary xware maka////////
 
@@ -1706,70 +1716,70 @@ smsm16.login("")
 smsm17.login("")
 smsm18.login("")
 smsm19.login("")
-smsm20.login("");
+smsm20.login("")
 smsm21.login("")
-smsm22.login("");
-smsm23.login("");
-smsm24.login("");
-smsm25.login("");
-smsm26.login("");
-smsm27.login("");
-smsm28.login("");
-smsm29.login("");
-smsm30.login("");
-smsm31.login("");
-smsm32.login("");
-smsm33.login("");
-smsm34.login("");
-smsm35.login("");
-smsm36.login("");
-smsm37.login("");
-smsm38.login("");
-smsm39.login("");
-smsm40.login("");
-smsm41.login("");
-smsm42.login("");
-smsm43.login("");
-smsm44.login("");
-smsm45.login("");
-smsm46.login("");
-smsm47.login("");
-smsm48.login("");
-smsm49.login("");
-smsm50.login("");
-smsm51.login("");
-smsm52.login("");
-smsm53.login("");
-smsm54.login("");
-smsm55.login("");
-smsm56.login("");
-smsm57.login("");
-smsm58.login("");
-smsm59.login("");
-smsm60.login("");
-smsm61.login("");
-smsm62.login("");
-smsm63.login("");
-smsm64.login("");
-smsm65.login("");
-smsm66.login("");
-smsm67.login("");
-smsm68.login("");
-smsm69.login("");
-smsm70.login("");
-smsm71.login("");
-smsm72.login("");
-smsm73.login("");
-smsm74.login("");
-smsm75.login("");
-smsm76.login("");
-smsm77.login("");
-smsm78.login("");
-smsm79.login("");
-smsm80.login("");
-smsm81.login("");
-smsm82.login("");
-smsm83.login("");
+smsm22.login("")
+smsm23.login("")
+smsm24.login("")
+smsm25.login("")
+smsm26.login("")
+smsm27.login("")
+smsm28.login("")
+smsm29.login("")
+smsm30.login("")
+smsm31.login("")
+smsm32.login("")
+smsm33.login("")
+smsm34.login("")
+smsm35.login("")
+smsm36.login("")
+smsm37.login("")
+smsm38.login("")
+smsm39.login("")
+smsm40.login("")
+smsm41.login("")
+smsm42.login("")
+smsm43.login("")
+smsm44.login("")
+smsm45.login("")
+smsm46.login("")
+smsm47.login("")
+smsm48.login("")
+smsm49.login("")
+smsm50.login("")
+smsm51.login("")
+smsm52.login("")
+smsm53.login("")
+smsm54.login("")
+smsm55.login("")
+smsm56.login("")
+smsm57.login("")
+smsm58.login("")
+smsm59.login("")
+smsm60.login("")
+smsm61.login("")
+smsm62.login("")
+smsm63.login("")
+smsm64.login("")
+smsm65.login("")
+smsm66.login("")
+smsm67.login("")
+smsm68.login("")
+smsm69.login("")
+smsm70.login("")
+smsm71.login("")
+smsm72.login("")
+smsm73.login("")
+smsm74.login("")
+smsm75.login("")
+smsm76.login("")
+smsm77.login("")
+smsm78.login("")
+smsm79.login("")
+smsm80.login("")
+smsm81.login("")
+smsm82.login("")
+smsm83.login("")
 smsm84.login("")
 smsm85.login("")
 smsm86.login("")
