@@ -2,9 +2,9 @@
   "name": "smsm",
   "version": "2.1.0",
   "description": "smsm",
-  "main": "smsm.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node smsm.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "discord.js": "11.4.2",
