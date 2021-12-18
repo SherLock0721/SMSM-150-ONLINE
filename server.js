@@ -121,17 +121,7 @@ const smsm119 = new Discord.Client();
 const smsm120 = new Discord.Client();
 
 ////////////////////////////////////////////// bas id voice dane
-smsm.on('ready', async() => {
-    console.log('online')
-    smsm.channels.cache.get('ايدي الروم').join()
-});
-smsm.on("voiceStateUpdate", async (oldState,newState) => {
-  if(newState.id === smsm.user.id ) {
-    if(!newState.voiceChannel) {
-      smsm.channels.cache.get('ايدي الروم').join()
-    }
-  }
-})
+
 /////////////////////
 ////////Ba heach shewayak daskary xware maka////////
 
