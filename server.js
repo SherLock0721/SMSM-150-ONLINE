@@ -464,7 +464,7 @@ smsm26.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm27.on("ready", () => {
-  console.log(`Online 25`);
+  console.log(`Online 2`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -477,7 +477,7 @@ smsm27.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm28.on("ready", () => {
-  console.log(`Online 26`);
+  console.log(`Online 28`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -490,7 +490,7 @@ smsm28.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm29.on("ready", () => {
-  console.log(`Online 27`);
+  console.log(`Online 29`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -503,7 +503,7 @@ smsm29.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm30.on("ready", () => {
-  console.log(`Online 28`);
+  console.log(`Online 30`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -516,7 +516,7 @@ smsm30.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm31.on("ready", () => {
-  console.log(`Online 29`);
+  console.log(`Online 31`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -529,7 +529,7 @@ smsm31.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm32.on("ready", () => {
-  console.log(`Online 30`);
+  console.log(`Online 32`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -542,7 +542,7 @@ smsm32.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm33.on("ready", () => {
-  console.log(`Online 31`);
+  console.log(`Online 33`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -555,7 +555,7 @@ smsm33.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm34.on("ready", () => {
-  console.log(`Online 32`);
+  console.log(`Online 34`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -568,7 +568,7 @@ smsm34.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm35.on("ready", () => {
-  console.log(`Online 33`);
+  console.log(`Online 35`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -581,7 +581,7 @@ smsm35.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm36.on("ready", () => {
-  console.log(`Online 34`);
+  console.log(`Online 36`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -594,7 +594,7 @@ smsm36.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm37.on("ready", () => {
-  console.log(`Online 35`);
+  console.log(`Online 37`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -607,7 +607,7 @@ smsm37.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm38.on("ready", () => {
-  console.log(`Online 36`);
+  console.log(`Online 38`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -620,7 +620,7 @@ smsm38.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm39.on("ready", () => {
-  console.log(`Online 37`);
+  console.log(`Online 39`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -633,7 +633,7 @@ smsm39.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm40.on("ready", () => {
-  console.log(`Online 38`);
+  console.log(`Online 40`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -646,7 +646,7 @@ smsm40.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm41.on("ready", () => {
-  console.log(`Online 39`);
+  console.log(`Online 41`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -659,7 +659,7 @@ smsm41.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm42.on("ready", () => {
-  console.log(`Online 40`);
+  console.log(`Online 42`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -672,7 +672,7 @@ smsm42.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm43.on("ready", () => {
-  console.log(`Online 41`);
+  console.log(`Online 43`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -685,7 +685,7 @@ smsm43.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm44.on("ready", () => {
-  console.log(`Online 42`);
+  console.log(`Online 44`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -698,7 +698,7 @@ smsm44.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm45.on("ready", () => {
-  console.log(`Online 43`);
+  console.log(`Online 45`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -711,7 +711,7 @@ smsm45.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm46.on("ready", () => {
-  console.log(`Online 44`);
+  console.log(`Online 46`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -724,7 +724,7 @@ smsm46.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm47.on("ready", () => {
-  console.log(`Online 45`);
+  console.log(`Online 47`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -737,7 +737,7 @@ smsm47.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm48.on("ready", () => {
-  console.log(`Online 46`);
+  console.log(`Online 48`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -750,7 +750,7 @@ smsm48.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm49.on("ready", () => {
-  console.log(`Online 47`);
+  console.log(`Online 49`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -763,7 +763,7 @@ smsm49.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm50.on("ready", () => {
-  console.log(`Online 48`);
+  console.log(`Online 50`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -776,7 +776,7 @@ smsm50.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm51.on("ready", () => {
-  console.log(`Online 49`);
+  console.log(`Online 51`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -789,7 +789,7 @@ smsm51.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm52.on("ready", () => {
-  console.log(`Online 50`);
+  console.log(`Online 52`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -802,7 +802,7 @@ smsm52.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm53.on("ready", () => {
-  console.log(`Online 51`);
+  console.log(`Online 53`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -815,7 +815,7 @@ smsm53.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm54.on("ready", () => {
-  console.log(`Online 52`);
+  console.log(`Online 54`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -828,7 +828,7 @@ smsm54.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm55.on("ready", () => {
-  console.log(`Online 53`);
+  console.log(`Online 55`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -841,7 +841,7 @@ smsm55.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm56.on("ready", () => {
-  console.log(`Online 54`);
+  console.log(`Online 56`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -854,7 +854,7 @@ smsm56.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm57.on("ready", () => {
-  console.log(`Online 55`);
+  console.log(`Online 57`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -867,7 +867,7 @@ smsm57.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm58.on("ready", () => {
-  console.log(`Online 56`);
+  console.log(`Online 58`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -880,7 +880,7 @@ smsm58.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm59.on("ready", () => {
-  console.log(`Online 57`);
+  console.log(`Online 59`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -893,7 +893,7 @@ smsm59.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm60.on("ready", () => {
-  console.log(`Online 58`);
+  console.log(`Online 60`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -906,7 +906,7 @@ smsm60.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm61.on("ready", () => {
-  console.log(`Online 59`);
+  console.log(`Online 61`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -919,7 +919,7 @@ smsm61.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm62.on("ready", () => {
-  console.log(`Online 60`);
+  console.log(`Online 62`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -932,7 +932,7 @@ smsm62.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm63.on("ready", () => {
-  console.log(`Online `);
+  console.log(`Online 63`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -945,7 +945,7 @@ smsm63.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm64.on("ready", () => {
-  console.log(`Online `);
+  console.log(`Online 64`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -958,7 +958,7 @@ smsm64.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm65.on("ready", () => {
-  console.log(`Online );
+  console.log(`Online 65`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -971,7 +971,7 @@ smsm65.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm66.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 66`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -984,7 +984,7 @@ smsm66.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm67.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 67`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -997,7 +997,7 @@ smsm67.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm68.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 68`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1010,7 +1010,7 @@ smsm68.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm69.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 69`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1023,7 +1023,7 @@ smsm69.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm70.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 70`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1036,7 +1036,7 @@ smsm70.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm71.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 71`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1049,7 +1049,7 @@ smsm71.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm72.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 72`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1062,7 +1062,7 @@ smsm72.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm73.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 73`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1075,7 +1075,7 @@ smsm73.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm74.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 74`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1088,7 +1088,7 @@ smsm74.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm75.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 75`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1101,7 +1101,7 @@ smsm75.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm76.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 76`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1114,7 +1114,7 @@ smsm76.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm77.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 77`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1127,7 +1127,7 @@ smsm77.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm78.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 78`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1140,7 +1140,7 @@ smsm78.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm79.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 79`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1153,7 +1153,7 @@ smsm79.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm80.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 80`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1166,7 +1166,7 @@ smsm80.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm81.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 81`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1179,7 +1179,7 @@ smsm81.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm82.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 82`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1192,7 +1192,7 @@ smsm82.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm83.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 83`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1205,7 +1205,7 @@ smsm83.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm84.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 84`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1218,7 +1218,7 @@ smsm84.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm85.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 85`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1231,7 +1231,7 @@ smsm85.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm86.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 86`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1244,7 +1244,7 @@ smsm86.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm87.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 87`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1257,7 +1257,7 @@ smsm87.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm88.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 88`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1270,7 +1270,7 @@ smsm88.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm89.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 89`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1283,7 +1283,7 @@ smsm89.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm90.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 88`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1296,7 +1296,7 @@ smsm90.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm91.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 89`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1309,7 +1309,7 @@ smsm91.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm92.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 90`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1322,7 +1322,7 @@ smsm92.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm93.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 91`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1335,7 +1335,7 @@ smsm93.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm94.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 92`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1348,7 +1348,7 @@ smsm94.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm95.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 93`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1361,7 +1361,7 @@ smsm95.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm96.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 94`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1374,7 +1374,7 @@ smsm96.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm97.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 95`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1387,7 +1387,7 @@ smsm97.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm98.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 96`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1400,7 +1400,7 @@ smsm98.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm99.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 97`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1413,7 +1413,7 @@ smsm99.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm100.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 98`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1426,7 +1426,7 @@ smsm100.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm101.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 99`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1439,7 +1439,7 @@ smsm101.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm102.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 100`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1452,7 +1452,7 @@ smsm102.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm103.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 101`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1465,7 +1465,7 @@ smsm103.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm104.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 102`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1478,7 +1478,7 @@ smsm104.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm105.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 103`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1491,7 +1491,7 @@ smsm105.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm106.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 104`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1504,7 +1504,7 @@ smsm106.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm107.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 105`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1517,7 +1517,7 @@ smsm107.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm108.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 106`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1530,7 +1530,7 @@ smsm108.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm109.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 107`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1543,7 +1543,7 @@ smsm109.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm110.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 108`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1556,7 +1556,7 @@ smsm110.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm111.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 109`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1569,7 +1569,7 @@ smsm111.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm112.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 110`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1582,7 +1582,7 @@ smsm112.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm113.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 111`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1595,7 +1595,7 @@ smsm113.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm114.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 112`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1608,7 +1608,7 @@ smsm114.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm115.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 113`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1621,7 +1621,7 @@ smsm115.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm116.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 116`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1634,7 +1634,7 @@ smsm116.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm117.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 117`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1647,7 +1647,7 @@ smsm117.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm118.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 118`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1660,7 +1660,7 @@ smsm118.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm119.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 119`);
   let statuses = [`BY SMSM`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -1673,7 +1673,7 @@ smsm119.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 smsm120.on("ready", () => {
-  console.log(`Online In Servers`);
+  console.log(`Online 120`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
