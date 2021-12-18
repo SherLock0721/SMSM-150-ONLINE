@@ -9,11 +9,10 @@
   "dependencies": {
     "discord.js": "11.4.2",
     "express": "^4.17.1",
-    "ytdl-core": "^4.9.1",
     "discord.js-v12": "^12.5.3",
     "keep-online": "^1.1.0"
   },
   "engines": {
-    "node": "8.x"
+    "node": "12.x"
   }
 }
