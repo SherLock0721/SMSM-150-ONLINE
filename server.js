@@ -471,7 +471,7 @@ smsm28.on("ready", () => {
 }); 
 ////
 smsm29.on("ready", () => {
-  const channel = smsm29.channels.get("");
+  const channel = smsm29.channels.get("877990365993525277");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
