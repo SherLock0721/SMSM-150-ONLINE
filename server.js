@@ -132,7 +132,7 @@ const smsm130 = new Discord.Client();
 
 ////////////////////////////////////////////// bas id voice dane
 smsm.on("ready", () => {
-  const channel = smsm.channels.get("877990365993525277");
+  const channel = smsm.channels.get(""); ////id voice 
   if (!channel) return console.error("The channel does not exist!");
   channel
     .join()
@@ -471,7 +471,7 @@ smsm28.on("ready", () => {
 }); 
 ////
 smsm29.on("ready", () => {
-  const channel = smsm29.channels.get("mychannelid");
+  const channel = smsm29.channels.get("");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
@@ -483,7 +483,7 @@ smsm29.on("ready", () => {
 }); 
 ///
 smsm30.on("ready", () => {
-  const channel = smsm30.channels.get("877990365993525277");
+  const channel = smsm30.channels.get("");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
