@@ -119,6 +119,16 @@ const smsm117 = new Discord.Client();
 const smsm118 = new Discord.Client();
 const smsm119 = new Discord.Client();
 const smsm120 = new Discord.Client();
+const smsm121 = new Discord.Client();
+const smsm122 = new Discord.Client();
+const smsm123 = new Discord.Client();
+const smsm124 = new Discord.Client();
+const smsm125 = new Discord.Client();
+const smsm126 = new Discord.Client();
+const smsm127 = new Discord.Client();
+const smsm128 = new Discord.Client();
+const smsm129 = new Discord.Client();
+const smsm130 = new Discord.Client();
 
 ////////////////////////////////////////////// bas id voice dane
 smsm.on("ready", () => {
@@ -285,7 +295,7 @@ smsm14.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 14.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -297,7 +307,7 @@ smsm15.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 15.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -309,7 +319,7 @@ smsm16.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 16.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -321,7 +331,7 @@ smsm17.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 17.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -333,7 +343,7 @@ smsm18.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 18.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -345,7 +355,7 @@ smsm19.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 19.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -357,7 +367,7 @@ smsm20.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 20.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -369,7 +379,7 @@ smsm21.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 21.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -381,7 +391,7 @@ smsm22.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 22.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -393,7 +403,7 @@ smsm23.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 23.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -405,7 +415,7 @@ smsm24.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 24.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -417,7 +427,7 @@ smsm25.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 25.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -429,7 +439,7 @@ smsm26.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 26.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -441,7 +451,7 @@ smsm27.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 27.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -453,7 +463,7 @@ smsm28.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 28.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -465,7 +475,7 @@ smsm29.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 29.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -477,7 +487,7 @@ smsm30.on("ready", () => {
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 30.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
@@ -2045,7 +2055,90 @@ smsm120.on("ready", () => {
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
+smsm120.on("ready", () => {
+  console.log(`Online 120`);
+  let statuses = [``];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm120.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+///
+smsm120.on("ready", () => {
+  console.log(`Online 120`);
+  let statuses = [``];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm120.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+///
+smsm120.on("ready", () => {
+  console.log(`Online 120`);
+  let statuses = [``];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm120.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+///
+smsm120.on("ready", () => {
+  console.log(`Online 120`);
+  let statuses = [``];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm120.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});smsm120.on("ready", () => {
+  console.log(`Online 120`);
+  let statuses = [``];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm120.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+///
+smsm120.on("ready", () => {
+  console.log(`Online 120`);
+  let statuses = [``];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm120.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});smsm120.on("ready", () => {
+  console.log(`Online 120`);
+  let statuses = [``];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.r
+///
 
+///
+
+///
+
+///
+
+///
+
+///
 //////////////// token lera dabne/////////
 
 smsm.login(process.env.TOKEN);
