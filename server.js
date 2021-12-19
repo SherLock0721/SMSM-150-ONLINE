@@ -128,7 +128,7 @@ smsm.on("ready", () => {
     .join()
     .then(connection => {
       // Yay, it worked!
-      console.log("Voice 1 connected.");
+      console.log("Successfully connected.");
     })
     .catch(e => {
       // Oh no, it errored! Let's log it to console :)
@@ -136,68 +136,152 @@ smsm.on("ready", () => {
     });
 });
 /////////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm2.on("ready", () => {
+  const channel = smsm2.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 2.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
   });
 }); 
 /////////////////////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm3.on("ready", () => {
+  const channel = smsm3.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 3.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
   });
 }); 
 //////////////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm4.on("ready", () => {
+  const channel = smsm4.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 4.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
   });
 }); 
 ///////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm5.on("ready", () => {
+  const channel = smsm5.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 5.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
   });
 }); 
 /////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm6.on("ready", () => {
+  const channel = smsm6.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
-    console.log("Successfully connected.");
+    console.log("Successfully connected 6.");
   }).catch(e => {
     // Oh no, it errored! Let's log it to console :)
     console.error(e);
   });
 }); 
 ///////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm7.on("ready", () => {
+  const channel = smsm7.channels.get("mychannelid");
+  if (!channel) return console.error("The channel does not exist!");
+  channel.join().then(connection => {
+    // Yay, it worked!
+    console.log("Successfully connected 7.");
+  }).catch(e => {
+    // Oh no, it errored! Let's log it to console :)
+    console.error(e);
+  });
+}); 
+////
+smsm8.on("ready", () => {
+  const channel = smsm8.channels.get("mychannelid");
+  if (!channel) return console.error("The channel does not exist!");
+  channel.join().then(connection => {
+    // Yay, it worked!
+    console.log("Successfully connected 8.");
+  }).catch(e => {
+    // Oh no, it errored! Let's log it to console :)
+    console.error(e);
+  });
+}); 
+////
+smsm9.on("ready", () => {
+  const channel = smsm9.channels.get("mychannelid");
+  if (!channel) return console.error("The channel does not exist!");
+  channel.join().then(connection => {
+    // Yay, it worked!
+    console.log("Successfully connected 9.");
+  }).catch(e => {
+    // Oh no, it errored! Let's log it to console :)
+    console.error(e);
+  });
+}); 
+////
+smsm10.on("ready", () => {
+  const channel = smsm10.channels.get("mychannelid");
+  if (!channel) return console.error("The channel does not exist!");
+  channel.join().then(connection => {
+    // Yay, it worked!
+    console.log("Successfully connected 10.");
+  }).catch(e => {
+    // Oh no, it errored! Let's log it to console :)
+    console.error(e);
+  });
+}); 
+////
+smsm11.on("ready", () => {
+  const channel = smsm11.channels.get("mychannelid");
+  if (!channel) return console.error("The channel does not exist!");
+  channel.join().then(connection => {
+    // Yay, it worked!
+    console.log("Successfully connected 11.");
+  }).catch(e => {
+    // Oh no, it errored! Let's log it to console :)
+    console.error(e);
+  });
+}); 
+////
+smsm12.on("ready", () => {
+  const channel = smsm12.channels.get("mychannelid");
+  if (!channel) return console.error("The channel does not exist!");
+  channel.join().then(connection => {
+    // Yay, it worked!
+    console.log("Successfully connected 12.");
+  }).catch(e => {
+    // Oh no, it errored! Let's log it to console :)
+    console.error(e);
+  });
+}); 
+////
+smsm13.on("ready", () => {
+  const channel = smsm13.channels.get("mychannelid");
+  if (!channel) return console.error("The channel does not exist!");
+  channel.join().then(connection => {
+    // Yay, it worked!
+    console.log("Successfully connected 13.");
+  }).catch(e => {
+    // Oh no, it errored! Let's log it to console :)
+    console.error(e);
+  });
+}); 
+////
+smsm14.on("ready", () => {
+  const channel = smsm14.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
@@ -208,8 +292,8 @@ client.on("ready", () => {
   });
 }); 
 ////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm15.on("ready", () => {
+  const channel = smsm15.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
@@ -220,21 +304,8 @@ client.on("ready", () => {
   });
 }); 
 ////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-
-////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm16.on("ready", () => {
+  const channel = smsm16.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
@@ -245,138 +316,8 @@ client.on("ready", () => {
   });
 }); 
 ////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-
-////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-
-////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-
-////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-
-////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-
-////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-
-////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-
-////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-
-////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-
-////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-
-////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm17.on("ready", () => {
+  const channel = smsm17.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
@@ -387,8 +328,8 @@ client.on("ready", () => {
   });
 }); 
 ////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm18.on("ready", () => {
+  const channel = smsm18.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
@@ -398,10 +339,9 @@ client.on("ready", () => {
     console.error(e);
   });
 }); 
-
 ////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm19.on("ready", () => {
+  const channel = smsm19.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
@@ -411,10 +351,9 @@ client.on("ready", () => {
     console.error(e);
   });
 }); 
-
 ////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm20.on("ready", () => {
+  const channel = smsm20.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
@@ -424,10 +363,9 @@ client.on("ready", () => {
     console.error(e);
   });
 }); 
-
 ////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm21.on("ready", () => {
+  const channel = smsm21.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
@@ -437,10 +375,9 @@ client.on("ready", () => {
     console.error(e);
   });
 }); 
-
 ////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm22.on("ready", () => {
+  const channel = smsm22.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
@@ -450,10 +387,9 @@ client.on("ready", () => {
     console.error(e);
   });
 }); 
-
 ////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm23.on("ready", () => {
+  const channel = smsm23.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
@@ -463,10 +399,9 @@ client.on("ready", () => {
     console.error(e);
   });
 }); 
-
 ////
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm24.on("ready", () => {
+  const channel = smsm24.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
@@ -476,11 +411,57 @@ client.on("ready", () => {
     console.error(e);
   });
 }); 
-
 ////
-
-/client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm25.on("ready", () => {
+  const channel = smsm25.channels.get("mychannelid");
+  if (!channel) return console.error("The channel does not exist!");
+  channel.join().then(connection => {
+    // Yay, it worked!
+    console.log("Successfully connected.");
+  }).catch(e => {
+    // Oh no, it errored! Let's log it to console :)
+    console.error(e);
+  });
+}); 
+////
+smsm26.on("ready", () => {
+  const channel = smsm26.channels.get("mychannelid");
+  if (!channel) return console.error("The channel does not exist!");
+  channel.join().then(connection => {
+    // Yay, it worked!
+    console.log("Successfully connected.");
+  }).catch(e => {
+    // Oh no, it errored! Let's log it to console :)
+    console.error(e);
+  });
+}); 
+////
+smsm27.on("ready", () => {
+  const channel = smsm27.channels.get("mychannelid");
+  if (!channel) return console.error("The channel does not exist!");
+  channel.join().then(connection => {
+    // Yay, it worked!
+    console.log("Successfully connected.");
+  }).catch(e => {
+    // Oh no, it errored! Let's log it to console :)
+    console.error(e);
+  });
+}); 
+////
+smsm28.on("ready", () => {
+  const channel = smsm28.channels.get("mychannelid");
+  if (!channel) return console.error("The channel does not exist!");
+  channel.join().then(connection => {
+    // Yay, it worked!
+    console.log("Successfully connected.");
+  }).catch(e => {
+    // Oh no, it errored! Let's log it to console :)
+    console.error(e);
+  });
+}); 
+////
+smsm29.on("ready", () => {
+  const channel = smsm29.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
@@ -491,8 +472,8 @@ client.on("ready", () => {
   });
 }); 
 ///
-client.on("ready", () => {
-  const channel = client.channels.get("mychannelid");
+smsm30.on("ready", () => {
+  const channel = smsm30.channels.get("mychannelid");
   if (!channel) return console.error("The channel does not exist!");
   channel.join().then(connection => {
     // Yay, it worked!
@@ -502,7 +483,6 @@ client.on("ready", () => {
     console.error(e);
   });
 }); 
-
 ////
 ////////Ba heach shewayak daskary xware maka////////
 
