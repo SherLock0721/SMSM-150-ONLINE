@@ -2055,94 +2055,130 @@ smsm120.on("ready", () => {
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
-smsm120.on("ready", () => {
-  console.log(`Online 120`);
+smsm121.on("ready", () => {
+  console.log(`Online 121`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm120.user.setActivity(STREAMING, {
+    smsm121.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 ///
-smsm120.on("ready", () => {
-  console.log(`Online 120`);
+smsm122.on("ready", () => {
+  console.log(`Online 122`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm120.user.setActivity(STREAMING, {
+    smsm122.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 ///
-smsm120.on("ready", () => {
-  console.log(`Online 120`);
+smsm123.on("ready", () => {
+  console.log(`Online 123`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm120.user.setActivity(STREAMING, {
+    smsm123.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 ///
-smsm120.on("ready", () => {
-  console.log(`Online 120`);
+smsm124.on("ready", () => {
+  console.log(`Online 124`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm120.user.setActivity(STREAMING, {
-      type: "playing",
-      url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});smsm120.on("ready", () => {
-  console.log(`Online 120`);
-  let statuses = [``];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm120.user.setActivity(STREAMING, {
+    smsm124.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
 ///
-smsm120.on("ready", () => {
-  console.log(`Online 120`);
+smsm125.on("ready", () => {
+  console.log(`Online 125`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm120.user.setActivity(STREAMING, {
+    smsm125.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
   }, 2000);
-});smsm120.on("ready", () => {
-  console.log(`Online 120`);
+});
+///
+smsm126.on("ready", () => {
+  console.log(`Online 126`);
   let statuses = [``];
   setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.r
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm126.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
 ///
-
+smsm127.on("ready", () => {
+  console.log(`Online 127`);
+  let statuses = [``];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm127.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
 ///
-
+smsm128.on("ready", () => {
+  console.log(`Online 128`);
+  let statuses = [``];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm128.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
 ///
-
+smsm129.on("ready", () => {
+  console.log(`Online 129`);
+  let statuses = [``];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm129.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
 ///
-
-///
-
+smsm130.on("ready", () => {
+  console.log(`Online 130`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm130.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
 ///
 //////////////// token lera dabne/////////
 
 smsm.login(process.env.TOKEN);
-smsm2.login("");
+smsm2.login(");
 smsm3.login("");
 smsm4.login("");
 smsm5.login("");
@@ -2261,3 +2297,13 @@ smsm117.login("");
 smsm118.login("");
 smsm119.login("");
 smsm120.login("");
+smsm121.login("");
+smsm122.login("");
+smsm123.login("");
+smsm124.login("");
+smsm125.login("");
+smsm126.login("");
+smsm127.login("");
+smsm128.login("");
+smsm129.login("");
+smsm130.login("");
