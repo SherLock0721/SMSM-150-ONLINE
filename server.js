@@ -130,370 +130,6 @@ const smsm128 = new Discord.Client();
 const smsm129 = new Discord.Client();
 const smsm130 = new Discord.Client();
 
-////////////////////////////////////////////// bas id voice dane
-smsm.on("ready", () => {
-  const channel = smsm.channels.get(""); ////id voice 
-  if (!channel) return console.error("The channel does not exist!");
-  channel
-    .join()
-    .then(connection => {
-      // Yay, it worked!
-      console.log("Successfully connected.");
-    })
-    .catch(e => {
-      // Oh no, it errored! Let's log it to console :)
-      console.error(e);
-    });
-});
-/////////
-smsm2.on("ready", () => {
-  const channel = smsm2.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 2.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-/////////////////////
-smsm3.on("ready", () => {
-  const channel = smsm3.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 3.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-//////////////
-smsm4.on("ready", () => {
-  const channel = smsm4.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 4.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-///////
-smsm5.on("ready", () => {
-  const channel = smsm5.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 5.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-/////
-smsm6.on("ready", () => {
-  const channel = smsm6.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 6.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-///////
-smsm7.on("ready", () => {
-  const channel = smsm7.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 7.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm8.on("ready", () => {
-  const channel = smsm8.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 8.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm9.on("ready", () => {
-  const channel = smsm9.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 9.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm10.on("ready", () => {
-  const channel = smsm10.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 10.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm11.on("ready", () => {
-  const channel = smsm11.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 11.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm12.on("ready", () => {
-  const channel = smsm12.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 12.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm13.on("ready", () => {
-  const channel = smsm13.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 13.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm14.on("ready", () => {
-  const channel = smsm14.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 14.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm15.on("ready", () => {
-  const channel = smsm15.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 15.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm16.on("ready", () => {
-  const channel = smsm16.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 16.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm17.on("ready", () => {
-  const channel = smsm17.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 17.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm18.on("ready", () => {
-  const channel = smsm18.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 18.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm19.on("ready", () => {
-  const channel = smsm19.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 19.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm20.on("ready", () => {
-  const channel = smsm20.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 20.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm21.on("ready", () => {
-  const channel = smsm21.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 21.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm22.on("ready", () => {
-  const channel = smsm22.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 22.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm23.on("ready", () => {
-  const channel = smsm23.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 23.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm24.on("ready", () => {
-  const channel = smsm24.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 24.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm25.on("ready", () => {
-  const channel = smsm25.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 25.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm26.on("ready", () => {
-  const channel = smsm26.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 26.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm27.on("ready", () => {
-  const channel = smsm27.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 27.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm28.on("ready", () => {
-  const channel = smsm28.channels.get("mychannelid");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 28.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
-smsm29.on("ready", () => {
-  const channel = smsm29.channels.get("877990365993525277");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 29.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-///
-smsm30.on("ready", () => {
-  const channel = smsm30.channels.get("");
-  if (!channel) return console.error("The channel does not exist!");
-  channel.join().then(connection => {
-    // Yay, it worked!
-    console.log("Successfully connected 30.");
-  }).catch(e => {
-    // Oh no, it errored! Let's log it to console :)
-    console.error(e);
-  });
-}); 
-////
 ////////Ba heach shewayak daskary xware maka////////
 
 smsm.on("ready", () => {
@@ -2174,6 +1810,619 @@ smsm130.on("ready", () => {
     });
   }, 2000);
 });
+///
+smsm131.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm132.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+smsm.on("ready", () => {
+  console.log(`Online 1`);
+  let statuses = [`By SMSM#8700`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm.user.setActivity(STREAMING, {
+      type: "playing",
+      url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
 ///
 //////////////// token lera dabne/////////
 
