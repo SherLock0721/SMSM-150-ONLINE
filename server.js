@@ -129,6 +129,26 @@ const smsm127 = new Discord.Client();
 const smsm128 = new Discord.Client();
 const smsm129 = new Discord.Client();
 const smsm130 = new Discord.Client();
+const smsm131 = new Discord.Client();
+const smsm132 = new Discord.Client();
+const smsm133 = new Discord.Client();
+const smsm134 = new Discord.Client();
+const smsm135 = new Discord.Client();
+const smsm136 = new Discord.Client();
+const smsm137 = new Discord.Client();
+const smsm138 = new Discord.Client();
+const smsm139 = new Discord.Client();
+const smsm140 = new Discord.Client();
+const smsm141 = new Discord.Client();
+const smsm142 = new Discord.Client();
+const smsm143 = new Discord.Client();
+const smsm144 = new Discord.Client();
+const smsm145 = new Discord.Client();
+const smsm146 = new Discord.Client();
+const smsm147 = new Discord.Client();
+const smsm148 = new Discord.Client();
+const smsm149 = new Discord.Client();
+const smsm150 = new Discord.Client();
 
 ////////Ba heach shewayak daskary xware maka////////
 
